@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/dvs/Playground/_apis/build/status/mafalda-gd.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/dvs/Playground/_build/latest?definitionId=499&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
